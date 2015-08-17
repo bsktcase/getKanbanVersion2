@@ -32,7 +32,7 @@ Facilitator's guide   | **New** content, including optional **rules changes**
 Facilitator's slides  | **New** content, companion to facilitator's guide
 Game board (original) | Same
 Game board (modified) | Sized to better fit a single A3/11x17" sheet of paper
-Event & story cards   | Same
+Event & story cards   | Same (print at 90% if using modified board)
 Sheets                | Same
 Blocked sticky        | Reformatted to print multiple stickies on one sheet
 Ready column header   | New content (sold in original hard kit but not included in their download)
