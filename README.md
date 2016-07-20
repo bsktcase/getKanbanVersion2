@@ -9,22 +9,18 @@ getKanban version 2 is a fun and effective tool for teaching and learning (just 
 * attacking queues
 * promoting the flow of value
 
-You can find the canonical and latest versions of getKanban at [getkanban.com](http://getkanban.com), including the original free version 2 download.
-We didn't create the original, although some Northwest Cadence folks have helped with playtesting various versions of it.
+You can find the canonical and latest versions of getKanban at [getkanban.com](http://getkanban.com), including the original free version 2 download. I didn't create the original, although some of my former colleagues have helped with playtesting various versions of it.
 
-Over the years, our team has facilitated getKanban game sessions for clients around the world—our trusty laminated reusable kits have been played by teams in all over the USA, Europe, and Asia.
-Along the way, we've learned what works well and what to adjust to make our training sessions the most effective.
-We continue to use version 2 because **it scales**: it's free, so we can make as many disposable or reusable kits as we need; it's portable; and our clients can print their own kits to play after we've gone home.
+Over the years, I have facilitated getKanban game sessions for clients around the world—our trusty laminated reusable kits have been played by teams in all over the USA, Europe, and Asia. Along the way, we've learned what works well and what to adjust to make our training sessions the most effective. We continue to use version 2 because **it scales**: it's free, so we can make as many disposable or reusable kits as we need; it's portable; and our clients can print their own kits to play after we've gone home.
 
 ## getPreso
 
-Recently, I presented some of our learnings at [Agile Games 2015](http://www.agilegamesnewengland.com/) and [Agile2015](http://agile2015.agilealliance.org/) conferences, and this GitHub project is designed to be a one-stop resource for attendees to go forth and play on their (your) own.
+I've presented some of our learnings at the [Agile Games 2015](http://www.agilegamesnewengland.com/), [Agile2015](http://agile2015.agilealliance.org/), and [Agile2016](http://agile2016.agilealliance.org/) conferences, and this GitHub project is designed to be a one-stop resource for attendees to go forth and play on their (your) own.
 
 You can view the Agile2015 session slides on [SlideShare](http://www.slideshare.net/bsktcase/introduction-to-getkanban-v20-lean-principles-for-experiential-learners-by-cheryl-hammond).
 
 ## getDownload
-This project contains the complete original getKanban version 2 [game kit](/game-kit) along with our new supplemental facilitator's guide and accompanying slides.
-Everything you need is right here!
+This project contains the complete original getKanban version 2 [game kit](/game-kit) along with a new supplemental facilitator's guide and accompanying slides. Everything you need is right here!
 
 this version | differences from original version
 :----|:----
